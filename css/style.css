@@ -214,6 +214,7 @@ body {
   text-transform: uppercase;
   padding-right: 5px;
   text-decoration: none !important;
+  border:none;
 }
 .gtco-banner-area a .fa, .gtco-feature a .fa, .gtco-features a .fa, .gtco-news .owl-carousel .card a .fa, #gtco-footer .submit-button .fa {
   background: #fff;
@@ -225,6 +226,9 @@ body {
   text-align: center;
   padding-top: 5px;
   margin-left: 15px;
+}
+.submit-button:hover{
+  cursor: pointer;
 }
 
 .gtco-feature h2, .gtco-features h2 {
