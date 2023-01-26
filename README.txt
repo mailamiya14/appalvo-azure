@@ -1,15 +1,5 @@
 
-TITLE: 
-Solution - 100% Fully Responsive Free HTML5 Bootstrap 4 Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-Website: http://gettemplates.co/ http://freehtml5.co/
-Released
-
-
-
-CREDITS:
+TCREDITS:
 
 Bootstrap
 http://getbootstrap.com/
